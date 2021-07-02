@@ -1,0 +1,42 @@
+* fa8b571 (footer) asdas
+| * 18671db (origin/english-version, english-version) Cabecera en inglés
+| * d6cd637 (HEAD -> master, origin/main) Experimento 2
+| * 8ad4f70 Experimento 1
+| * 497d45c Master 2
+| * ca8c421 Master 1
+| * 2e43470 Cambio 2 del texto
+| * 3eab899 Cambio 1 del texto
+| * c971409 Inicio del documento de texto
+| * 5d05017 (tag: v0.5) Correción de link
+| * 906e737 Agregao de imagen desde link exterior
+| * 7e79137 Agrego imagen
+| *   fbab2da Merge pull request #1 from ArturoCBTyur/fix-typo
+| |\  
+| | * cdac9e7 (origin/fix-typo) Cambio a entidades en lugar de tildes
+| | * 73528b3 Corrección de ortografía
+| |/  
+| *   38ce51e (tag: v0.4) Merge branch 'footer'
+| |\  
+| |/  
+|/|   
+* | 8ba6ae3 (origin/footer) Agregado de Footer
+| * 2f39f74 (header) Agregado de logo + Modificacion de estilos 2
+| * 1bb5e26 (origin/header) Logo de header
+|/  
+* c4db8a7 Versión 2.0
+*   4896304 (origin/master) Merge branch 'main' of github.com:ArturoCBTyur/hyperblog
+|\  
+| * c540280 Initial commit
+*   de33497 Solución del conflicto
+|\  
+| * 380e25d (origin/cabecera) PRUEBA RED
+* | 3f06f6c PRUEBA BLUE
+|/  
+*   d5de6ea (tag: v0.3) Fusion de las dos ramas
+|\  
+| * 8f4664c Agrego cabecera
+* | fae1233 Contenido extra
+|/  
+* 1c509ae (tag: v0.2) Modificacion de estilos 1
+* 265c7c9 (tag: v0.1) Agrego estilos CSS
+* 8aa3b41 Archivo HTMML
